@@ -1,4 +1,4 @@
-# 🔎 Multi-Agent Research Assistant
+# 🔎 ResearchForge — Multi-Agent AI Research Assistant
 
 A multi-agent AI research assistant that automates web research by searching for relevant information, reading online sources, generating a structured report, and critically evaluating the result.
 
