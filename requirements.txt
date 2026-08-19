@@ -1,33 +1,11 @@
-# LLM & Agent Framework
 langchain
 langchain-core
 langchain-groq
 langgraph
-
-# Web Search
 tavily-python
-
-# Web Scraping / Content Extraction
 beautifulsoup4
 requests
-
-# Environment Variables
 python-dotenv
-
-# Data Validation
 pydantic
-
-# HTTP Client
 httpx
-
-# API / Backend
-fastapi
-uvicorn
-ion
-fastapi
-uvicorn
-
 streamlit
-
-bs4
-rich
