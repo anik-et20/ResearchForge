@@ -4,7 +4,6 @@ from bs4 import BeautifulSoup
 from tavily import TavilyClient
 from dotenv import load_dotenv
 import os
-from rich import print
 load_dotenv()
 
 tavily = TavilyClient(api_key=os.getenv("TAVILY_API_KEY"))
